@@ -1,0 +1,23 @@
+.vercel/
+dist/
+.output/
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Local reports, reference material and retired assets.
+/qa/
+/src/agrumea*
+/src/reference-data.json
+/public/agrumea*
+/public/images/agrumea/
+/scripts/reference-check.mjs
+
+# Local archives, logs and editor state.
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

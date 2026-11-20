@@ -1,0 +1,6 @@
+dist
+.output
+qa
+AGENTS.md
+src/agrumea.mjs
+public/agrumea*
